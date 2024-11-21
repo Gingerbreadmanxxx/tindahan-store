@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ginger\\.nuget\\packages\\": {}
+    "C:\\Users\\IT-DEV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ginger\\Desktop\\Training Materials\\ReactJS\\TindahanStore\\StoreAPI\\StoreAPI.csproj",
+      "projectUniqueName": "C:\\Ginger Files\\Training Projects\\tindahan-store\\StoreAPI\\StoreAPI.csproj",
       "projectName": "StoreAPI",
-      "projectPath": "C:\\Users\\Ginger\\Desktop\\Training Materials\\ReactJS\\TindahanStore\\StoreAPI\\StoreAPI.csproj",
-      "packagesPath": "C:\\Users\\Ginger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ginger\\Desktop\\Training Materials\\ReactJS\\TindahanStore\\StoreAPI\\obj\\",
+      "projectPath": "C:\\Ginger Files\\Training Projects\\tindahan-store\\StoreAPI\\StoreAPI.csproj",
+      "packagesPath": "C:\\Users\\IT-DEV\\.nuget\\packages\\",
+      "outputPath": "C:\\Ginger Files\\Training Projects\\tindahan-store\\StoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ginger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IT-DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -460,6 +460,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -490,7 +495,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
