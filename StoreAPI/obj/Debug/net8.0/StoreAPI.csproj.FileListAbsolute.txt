@@ -30,3 +30,36 @@ C:\Users\Ginger\Desktop\Training Materials\ReactJS\TindahanStore\StoreAPI\obj\De
 C:\Users\Ginger\Desktop\Training Materials\ReactJS\TindahanStore\StoreAPI\obj\Debug\net8.0\StoreAPI.pdb
 C:\Users\Ginger\Desktop\Training Materials\ReactJS\TindahanStore\StoreAPI\obj\Debug\net8.0\StoreAPI.genruntimeconfig.cache
 C:\Users\Ginger\Desktop\Training Materials\ReactJS\TindahanStore\StoreAPI\obj\Debug\net8.0\ref\StoreAPI.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\appsettings.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\StoreAPI.exe
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\StoreAPI.deps.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\StoreAPI.runtimeconfig.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\StoreAPI.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\StoreAPI.pdb
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.csproj.AssemblyReference.cache
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.AssemblyInfoInputs.cache
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.AssemblyInfo.cs
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.csproj.CoreCompileInputs.cache
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.sourcelink.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.StoreAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.StoreAPI.props
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StoreAPI.props
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StoreAPI.props
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\scopedcss\bundle\StoreAPI.styles.css
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.csproj.Up2Date
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\refint\StoreAPI.dll
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.pdb
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\StoreAPI.genruntimeconfig.cache
+C:\Ginger Files\Training Projects\tindahan-store\StoreAPI\obj\Debug\net8.0\ref\StoreAPI.dll
