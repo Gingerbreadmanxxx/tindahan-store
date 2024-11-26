@@ -216,6 +216,8 @@ namespace StoreAPI.Data
           };
 
           context.Products.AddRange(products);
+
+          context.SaveChanges();
         }
     }
 }
