@@ -1,4 +1,4 @@
-import { Product } from "../app/models/product";
+import { Product } from "../../app/models/product";
 import ProductList from "./ProductList";
 import { useState, useEffect } from "react";
 
@@ -27,7 +27,7 @@ export default function Catalog(){
   
     return (
         <>
-            <ProductList products={products} />
+            <ProductList products = {products} />
             {/* <Button variant="contained" onClick={addProduct}>Add Product</Button> */}
         </>
        
